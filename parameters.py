@@ -1,0 +1,20 @@
+
+EDGE_SEVER_RANGE = 300  # meters
+MOBILE_RANGE = 75    # meters
+
+
+TERRAIN_SIZE = 500  # meters^2
+
+
+NUMBER_OF_USERS = 50
+NUMBER_OF_CONTENTS = 500000
+
+
+MOBILE_CACHE_CAPACITY       = 30       # Megabytes
+EDGE_SEVER_CACHE_CAPACITY = 1000     # Megabytes
+
+
+
+CONTENT_SIZE = 5  # Megabytes
+ZIPF_PARAMETER = 1.2  # Zipf参数
+
